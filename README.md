@@ -4,6 +4,7 @@ j'ai repere ces rubriques dans l'arborescence des sites et j'ai donc effectue de
 l'objectif est d'ensuite d'utiliser des rubriques dans des calculs d'audience de sites
 La deuxième étape consistait à produire des prédictions d'audience par nombre de sessions pour un titre de presse professionnelle sur Internet en utilisant un modèle d’apprentissage automatique. Le modèle utilisé est Random Forest
 qui est un type d’algorithme d’arbre de décision.
+Les visualisations ont été faites sur Tableau, Looker
 -----
 For this notebook, I had to find sections in order to qualify data from websites of titles from a professional press group. 
 I located these sections in the site structure and therefore performed extractions. 
